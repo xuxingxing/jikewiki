@@ -1,5 +1,5 @@
 test的
 
-- [Chapter 1](chapter1.md)
+- [关于我们](about-us.md)
 - [Chapter 2](chapter2.md)
 - [Chapter 3](chapter3.md)
