@@ -1,1 +1,13 @@
- 书籍名称和介绍（必须有）
+{
+    "name": "极客学院wiki测试，必填",
+    "introduction": "极客Wiki测试 ，必填",
+    "title": "页面的 title 标签的内容，非必填",
+    "keywords": "极客学院,wiki，非必填",
+    "description": "页面的 description 标签的内容，非必填",
+    "path": {
+        "content": "，非必填",
+        "images": "，非必填",
+        "readme": "",
+        "toc": "，非必填"
+        }
+}
